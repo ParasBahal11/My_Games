@@ -10,6 +10,7 @@ Welcome to the 'My-Games projects' repository! This repository is dedicated to h
 <h2>Projects:</h2>
 1. JUMPY BIRD <br>
 2. ROCK PAPER & SICCSORS
+3. Tic Tac Toe
 <h2>How to Use:</h2>
 
 Each project is contained in its own folder within the repository. You can simply navigate to the project folder to access the project files and code. Feel free to explore, modify, and learn from the projects.
