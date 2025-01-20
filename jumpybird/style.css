@@ -1,0 +1,92 @@
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+}
+
+.background {
+    height: 100vh;
+    width: 100vw;
+}
+
+.bird {
+    height: 100px;
+    width: 160px;
+    position: fixed;
+    top: 40vh;
+    left: 30vw;
+    z-index: 100;
+    transition: all 0.3s ease-in-out;
+}
+
+.pipe_sprite {
+    position: fixed;
+    top: 40vh;
+    left: 100vw;
+    height: 70vh;
+    width: 6vw;
+    background-color: green;
+    transition: all 0.3s ease-in-out;
+}
+
+.message {
+    position: fixed;
+    z-index: 10;
+    height: 10vh;
+    font-size: 7vh;
+    font-weight: 100;
+    color: black;
+    top: 12vh;
+    left: 20vw;
+    text-align: center;
+    transition: font-size 0.3s ease-in-out, left 0.3s ease-in-out;
+}
+
+.score {
+    position: fixed;
+    z-index: 10;
+    height: 10vh;
+    font-size: 5vh;
+    font-weight: 100;
+    color: goldenrod;
+    top: 0;
+    left: 0;
+}
+
+.score_val {
+    color: gold;
+}
+
+.villain_bird {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    transition: width 0.3s ease-in-out, height 0.3s ease-in-out;
+}
+
+/* Video container */
+.video-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Ensures video stays in the background */
+    overflow: hidden;
+}
+
+.background-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the video covers the entire container */
+}
+
