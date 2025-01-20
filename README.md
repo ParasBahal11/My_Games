@@ -9,7 +9,7 @@ Welcome to the 'My-Games projects' repository! This repository is dedicated to h
 4. BootStrap<br>
 <h2>Projects:</h2>
 1. JUMPY BIRD <br>
-2. ROCK PAPER & SICCSORS
+2. ROCK PAPER & SICCSORS<br>
 3. Tic Tac Toe
 <h2>How to Use:</h2>
 
