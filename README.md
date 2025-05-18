@@ -7,10 +7,12 @@ Welcome to the 'My-Games projects' repository! This repository is dedicated to h
 2. CSS<br>
 3. JavaScript<br>
 4. BootStrap<br>
+5. API
 <h2>Projects:</h2>
 1. JUMPY BIRD <br>
 2. ROCK PAPER & SICCSORS<br>
-3. Tic Tac Toe
+3. Tic Tac Toe<br>
+4.TALKING TOM
 <h2>How to Use:</h2>
 
 Each project is contained in its own folder within the repository. You can simply navigate to the project folder to access the project files and code. Feel free to explore, modify, and learn from the projects.
